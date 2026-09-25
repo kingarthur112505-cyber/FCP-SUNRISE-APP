@@ -1,0 +1,6 @@
+{
+  "name": "FCP Sunrise Workspace",
+  "description": "Private internal workspace, file vault, and operations management system for FCP Sunrise Travel & Tours Inc. Creating Memories, Breaking the Distance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
